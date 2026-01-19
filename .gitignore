@@ -1,0 +1,15 @@
+# ambiente virtual
+.venv/
+
+# cache do python
+__pycache__/
+*.pyc
+
+# variáveis de ambiente
+.env
+
+# vscode
+.vscode/
+
+# so
+.DS_Store
